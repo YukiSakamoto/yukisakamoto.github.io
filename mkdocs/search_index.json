@@ -1,0 +1,99 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "YukiSakamoto.github.io\n\n\n\u5742\u672c\u88d5\u7d00\u306e\u30db\u30fc\u30e0\u30da\u30fc\u30b8\n\n\nCurrent status: \n\n\n\n\n\n\nPhD Course student at Tokyo Institute of Technology, studying computational chemistry\n\n\n\n\n\n\nJunior Research Associate and student trainee at RIKEN Institute\n\n\n\n\n\n\nInformation:\n\n\n2017.10.13  Launched this web page.",
+            "title": "Home"
+        },
+        {
+            "location": "/#yukisakamotogithubio",
+            "text": "\u5742\u672c\u88d5\u7d00\u306e\u30db\u30fc\u30e0\u30da\u30fc\u30b8  Current status:     PhD Course student at Tokyo Institute of Technology, studying computational chemistry    Junior Research Associate and student trainee at RIKEN Institute    Information:  2017.10.13  Launched this web page.",
+            "title": "YukiSakamoto.github.io"
+        },
+        {
+            "location": "/profile/",
+            "text": "Yuki Sakamoto (\u5742\u672c\u88d5\u7d00) \n\n\nResearch Interest\n\n\nComputational chemistry\n\n\n\n\n\n\nFirst principles calculations\n\n\n\n\n\n\nMolecular orbital calculations ( \nHere\n is self-made Hartree Fock solver. )\n\n\n\n\n\n\nElectrocatalysts\n\n\n\n\nElectrocatalysts for Oxygen Evolving Reaction (OER), composed of first transition metal oxides\n\n\n\n\nEducation\n\n\n\n\n\n\n2009.3:     Fukuyama Senior High School attached to Hiroshima University, Hiroshima-pref, Japan\n\n\n\n\n\n\n2013.3:     B.S. in Science, Tokyo Institute of Technology\n\n\n\n\n\n\n2015.3  Master in Science, Tokyo Institute of Technology\n\n\n\n\nMajoring: Developmental cellular biology\n\n\n\n\n\n\n\n\n2015.4-Current:     PhD course at Tokyo Institute of Technology\n\n\n\n\n\n\nStudent Trainee at RIKEN\n\n\n\n\n\n\nMajoring: Physycal chemistry (Quantum chemical calculation, Band structure calculation... )\n\n\n\n\n\n\n\n\n\n\n2017.4-Current:     Junior Research Associate at RIKEN\n\n\n\n\n\n\nWorking Experience\n\n\n\n\n\n\n2010-2013:    Humming Heads.inc, as a part time programmer\n\n\n\n\nImplemention of new features, bug-fixing, for information leak prevention software.\n\n\n\n\n\n\n\n\n2012-Current: Keio University, as a part time programmer\n\n\n\n\nContributing the \ne-cell project\n.\n\n\n\n\n\n\n\n\nSkills\n\n\nComputational Chemistry\n\n\n\n\nGaussian\n\n\nQuantum ESPRESSO\n\n\nORCA\n\n\nVASP\n\n\n\n\nProgramming Language\n\n\n\n\nC/C++\n\n\nRuby\n\n\nPython\n\n\n\n\nSocial Accounts\n\n\nPlease see the \nContact\n.",
+            "title": "Profile"
+        },
+        {
+            "location": "/profile/#research-interest",
+            "text": "",
+            "title": "Research Interest"
+        },
+        {
+            "location": "/profile/#computational-chemistry",
+            "text": "First principles calculations    Molecular orbital calculations (  Here  is self-made Hartree Fock solver. )",
+            "title": "Computational chemistry"
+        },
+        {
+            "location": "/profile/#electrocatalysts",
+            "text": "Electrocatalysts for Oxygen Evolving Reaction (OER), composed of first transition metal oxides",
+            "title": "Electrocatalysts"
+        },
+        {
+            "location": "/profile/#education",
+            "text": "2009.3:     Fukuyama Senior High School attached to Hiroshima University, Hiroshima-pref, Japan    2013.3:     B.S. in Science, Tokyo Institute of Technology    2015.3  Master in Science, Tokyo Institute of Technology   Majoring: Developmental cellular biology     2015.4-Current:     PhD course at Tokyo Institute of Technology    Student Trainee at RIKEN    Majoring: Physycal chemistry (Quantum chemical calculation, Band structure calculation... )      2017.4-Current:     Junior Research Associate at RIKEN",
+            "title": "Education"
+        },
+        {
+            "location": "/profile/#working-experience",
+            "text": "2010-2013:    Humming Heads.inc, as a part time programmer   Implemention of new features, bug-fixing, for information leak prevention software.     2012-Current: Keio University, as a part time programmer   Contributing the  e-cell project .",
+            "title": "Working Experience"
+        },
+        {
+            "location": "/profile/#skills",
+            "text": "",
+            "title": "Skills"
+        },
+        {
+            "location": "/profile/#computational-chemistry_1",
+            "text": "Gaussian  Quantum ESPRESSO  ORCA  VASP",
+            "title": "Computational Chemistry"
+        },
+        {
+            "location": "/profile/#programming-language",
+            "text": "C/C++  Ruby  Python",
+            "title": "Programming Language"
+        },
+        {
+            "location": "/profile/#social-accounts",
+            "text": "Please see the  Contact .",
+            "title": "Social Accounts"
+        },
+        {
+            "location": "/publications/",
+            "text": "Peer Reviewed Papers\n\n\n\n\n\n\nKazuto Ikemoto , Yuki Sakamoto, Rikako Tanaka, Koji Ogata, Nobuyuki Matsushita, and Shinichiro Nakamura, \n\"Unusual Ionic Bond and Solubility Mechanism of Na\nn\nPQQ (n = 0\u20134) Crystals\"\n, Crystal Growth and Design, 2017, 17 (8), pp 4118\u20134123\n\n\n\n\n\n\nMakoto Hatakeyama, Yuki Sakamoto, Koji Ogata, Yuto Sumida, Tomoe Sumida, Takamitsu Hosoya and Shinichiro Nakamura \n\"A study on an unusual SN2 mechanism in the methylation of benzyne through nickel-complexation\"\n, Phys. Chem. Chem. Phys., 2017, 19, 26926-26933\n\n\n\n\n\n\nYuki Sakamoto, Yusuke Noda, Kaoru Ohno, and Shinichiro Nakamura, \n\"Chemical Insights from Theoretical Electronic States in Nickel Hydroxide and Monolayer Surface Model\"\n J. Phys. Chem. C (in press)\n\n\n\n\n\n\nPoster\n\n\n\n\nYuki Sakamoto et al. \"First Principles Calculation of Pristine Ni(OH)\n2\n and Related Materials\", 2017 International Conference on Artificial Photosynthesis, Ritsumeikan-University, Kyoto. (2017/3/2-5)\n\n\n\n\nTalks\n\n\n\n\n\n\n\u5742\u672c\u88d5\u7d00,\u4e2d\u6751\u632f\u4e00\u90ce \"\u30cb\u30c3\u30b1\u30eb\u6c34\u9178\u5316\u7269\u306e\u7b2c\u4e00\u539f\u7406\u8a08\u7b97\", \u65e5\u672c\u5316\u5b66\u4f1a\u7b2c97\u56de\u5e74\u4f1a, \u6176\u5fdc\u7fa9\u587e\u5927\u5b66, \u6a2a\u6d5c(2017/3/16-19)\n\n\n\n\n\n\n\u5742\u672c\u88d5\u7d00,\u4e2d\u6751\u632f\u4e00\u90ce \"\u03b2-FeOOH(akaganeite)\u306e\u6c34\u5206\u89e3\u53cd\u5fdc\u306e\u7b2c\u4e00\u539f\u7406\u8a08\u7b97\u306b\u3088\u308b\u7814\u7a76\", \u7b2c78\u56de\u5fdc\u7528\u7269\u7406\u5b66\u4f1a\u79cb\u5b63\u5b66\u8853\u8b1b\u6f14\u4f1a, \u798f\u5ca1\u56fd\u969b\u4f1a\u8b70\u5834, \u798f\u5ca1(2017/9/5-8)",
+            "title": "Publications"
+        },
+        {
+            "location": "/publications/#peer-reviewed-papers",
+            "text": "Kazuto Ikemoto , Yuki Sakamoto, Rikako Tanaka, Koji Ogata, Nobuyuki Matsushita, and Shinichiro Nakamura,  \"Unusual Ionic Bond and Solubility Mechanism of Na n PQQ (n = 0\u20134) Crystals\" , Crystal Growth and Design, 2017, 17 (8), pp 4118\u20134123    Makoto Hatakeyama, Yuki Sakamoto, Koji Ogata, Yuto Sumida, Tomoe Sumida, Takamitsu Hosoya and Shinichiro Nakamura  \"A study on an unusual SN2 mechanism in the methylation of benzyne through nickel-complexation\" , Phys. Chem. Chem. Phys., 2017, 19, 26926-26933    Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, and Shinichiro Nakamura,  \"Chemical Insights from Theoretical Electronic States in Nickel Hydroxide and Monolayer Surface Model\"  J. Phys. Chem. C (in press)",
+            "title": "Peer Reviewed Papers"
+        },
+        {
+            "location": "/publications/#poster",
+            "text": "Yuki Sakamoto et al. \"First Principles Calculation of Pristine Ni(OH) 2  and Related Materials\", 2017 International Conference on Artificial Photosynthesis, Ritsumeikan-University, Kyoto. (2017/3/2-5)",
+            "title": "Poster"
+        },
+        {
+            "location": "/publications/#talks",
+            "text": "\u5742\u672c\u88d5\u7d00,\u4e2d\u6751\u632f\u4e00\u90ce \"\u30cb\u30c3\u30b1\u30eb\u6c34\u9178\u5316\u7269\u306e\u7b2c\u4e00\u539f\u7406\u8a08\u7b97\", \u65e5\u672c\u5316\u5b66\u4f1a\u7b2c97\u56de\u5e74\u4f1a, \u6176\u5fdc\u7fa9\u587e\u5927\u5b66, \u6a2a\u6d5c(2017/3/16-19)    \u5742\u672c\u88d5\u7d00,\u4e2d\u6751\u632f\u4e00\u90ce \"\u03b2-FeOOH(akaganeite)\u306e\u6c34\u5206\u89e3\u53cd\u5fdc\u306e\u7b2c\u4e00\u539f\u7406\u8a08\u7b97\u306b\u3088\u308b\u7814\u7a76\", \u7b2c78\u56de\u5fdc\u7528\u7269\u7406\u5b66\u4f1a\u79cb\u5b63\u5b66\u8853\u8b1b\u6f14\u4f1a, \u798f\u5ca1\u56fd\u969b\u4f1a\u8b70\u5834, \u798f\u5ca1(2017/9/5-8)",
+            "title": "Talks"
+        },
+        {
+            "location": "/contact/",
+            "text": "Email\n\n\nMy email address is as follows.\n\n\n\n\n\n\nyuki.sakamoto \nat\n riken.jp \n\n\n\n\n\n\nsakamotoyuki.jpn \nat\n gmail.com\n\n\n(please substitute \nat\n with @)\n\n\n\n\n\n\nSocial Accounts\n\n\nIt is also welcome to contact me via the social account described in below.\n\n\n\n\nTwitter\n\n\nGithub\n\n\nLinkedin\n\n\nFacebook\n\n\nBlog (only Japanese)\n\n\n\n\nI am using this icon in most social medias.",
+            "title": "Contact"
+        },
+        {
+            "location": "/contact/#email",
+            "text": "My email address is as follows.    yuki.sakamoto  at  riken.jp     sakamotoyuki.jpn  at  gmail.com  (please substitute  at  with @)",
+            "title": "Email"
+        },
+        {
+            "location": "/contact/#social-accounts",
+            "text": "It is also welcome to contact me via the social account described in below.   Twitter  Github  Linkedin  Facebook  Blog (only Japanese)   I am using this icon in most social medias.",
+            "title": "Social Accounts"
+        }
+    ]
+}
