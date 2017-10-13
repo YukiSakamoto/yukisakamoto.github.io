@@ -1,0 +1,7 @@
+site_name: YukiSakamoto.github.io
+remote_branch: master
+pages:
+- [index.md, Home]
+- [profile.md, Profile]
+- [publications.md, Publications]
+- [contact.md, Contact]
