@@ -2,6 +2,12 @@
 
 ** Yuki Sakamoto (坂本裕紀) **
 
+## Affiliation
+
+[Department of Biological Information, Tokyo Institute of Technology](http://www.bio.titech.ac.jp/english/research/en_grad/bi/index.html)
+
+[Research Cluster for Innovation, Nakamura Laboratory, RIKEN, Japan](http://www.riken.jp/en/research/labs/rinc/nakamura/)
+
 ## Research Interest
 
 #### Computational chemistry
