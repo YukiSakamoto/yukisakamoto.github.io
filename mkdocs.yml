@@ -2,7 +2,9 @@ site_name: YukiSakamoto.github.io
 remote_branch: master
 google_analytics: ['UA-108145348-1', 'yukisakamoto.github.io']
 pages:
-- [index.md, Home]
-- [profile.md, Profile]
-- [publications.md, Publications]
-- [contact.md, Contact]
+- Home: index.md
+- Profile: profile.md
+- Publications: publications.md
+- Contact: contact.md
+- Misc:
+  - Tiny Hartree-Fock program: hf.md
