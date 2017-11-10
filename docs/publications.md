@@ -5,7 +5,7 @@
 
 - Makoto Hatakeyama, Yuki Sakamoto, Koji Ogata, Yuto Sumida, Tomoe Sumida, Takamitsu Hosoya and Shinichiro Nakamura ["A study on an unusual SN2 mechanism in the methylation of benzyne through nickel-complexation"](http://pubs.rsc.org/-/content/articlehtml/2017/cp/c7cp04739h), Phys. Chem. Chem. Phys., 2017, 19, 26926-26933
 
-- Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, and Shinichiro Nakamura, ["Chemical Insights from Theoretical Electronic States in Nickel Hydroxide and Monolayer Surface Model"](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b07564) J. Phys. Chem. C (in press)
+- Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, and Shinichiro Nakamura, ["Chemical Insights from Theoretical Electronic States in Nickel Hydroxide and Monolayer Surface Model"](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b07564) J. Phys. Chem. C., 2017, 121(44), pp 24603-24611
 
 ## Poster 
 
