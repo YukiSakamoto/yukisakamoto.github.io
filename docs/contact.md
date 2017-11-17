@@ -17,9 +17,8 @@ It is also welcome to contact me via the social account described in below.
 
 - [Twitter](https://twitter.com/swakamoto)
 - [Github](https://github.com/YukiSakamoto)
-- [Linkedin](https://www.linkedin.com/in/yuki-sakamoto)
-- [Facebook](https://www.facebook.com/sakamotoyuki.jpn)
 - [Blog (only Japanese)](http://yukisakamoto.hatenablog.com)
+- [Linkedin](https://www.linkedin.com/in/yuki-sakamoto)
 
 I am using this icon in most social medias.
 
