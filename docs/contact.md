@@ -9,16 +9,17 @@ My email address is as follows.
 
 	(please substitute _at_ with @)
 
-
+-   Messages via [Linkedin](https://www.linkedin.com/in/yuki-sakamoto) is also available.
 
 ## Social Accounts
 
 It is also welcome to contact me via the social account described in below.
 
-- [Twitter](https://twitter.com/swakamoto)
-- [Github](https://github.com/YukiSakamoto)
-- [Blog (only Japanese)](http://yukisakamoto.hatenablog.com)
 - [Linkedin](https://www.linkedin.com/in/yuki-sakamoto)
+- [Twitter](https://twitter.com/swakamoto)
+- [Github](https://github.com/YukiSakamoto) 
+- [Qiita](https://qiita.com/YukiSakamoto@github) :   Technocal tips
+- [Blog (only Japanese)](http://yukisakamoto.hatenablog.com) : 
 
 I am using this icon in most social medias.
 
