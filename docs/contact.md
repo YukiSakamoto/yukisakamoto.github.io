@@ -16,7 +16,6 @@ My email address is as follows.
 It is also welcome to contact me via the social account described in below.
 
 - [Linkedin](https://www.linkedin.com/in/yuki-sakamoto)
-- [Twitter](https://twitter.com/swakamoto)
 - [Github](https://github.com/YukiSakamoto) 
 - [Qiita](https://qiita.com/YukiSakamoto@github) :   Technocal tips
 - [Blog (only Japanese)](http://yukisakamoto.hatenablog.com) : 
