@@ -4,12 +4,13 @@
 
 Current status: 
 
-- PhD Course student at Tokyo Institute of Technology, studying computational chemistry
+- Engineer at Mitsubishi Chemical Corporation
 
-- Junior Research Associate and student trainee at RIKEN Institute
+- Ph.D. in Science
 
 Information:
 
-	2017.10.13	Launched this web page.
+	2018. 9. 5  Update profile
+	2017.10.13	Launched this web page
 
 

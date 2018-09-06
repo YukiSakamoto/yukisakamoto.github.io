@@ -3,13 +3,11 @@
 
 My email address is as follows.
 
--	yuki.sakamoto _at_ riken.jp	
-
 -	sakamotoyuki.jpn _at_ gmail.com
 
 	(please substitute _at_ with @)
 
--   Messages via [Linkedin](https://www.linkedin.com/in/yuki-sakamoto) is also available.
+-   Messages via [Linkedin](https://www.linkedin.com/in/yuki-sakamoto) is also welcome.
 
 ## Social Accounts
 
