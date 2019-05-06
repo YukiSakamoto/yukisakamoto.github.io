@@ -7,6 +7,8 @@
 
 - Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, and Shinichiro Nakamura, ["Chemical Insights from Theoretical Electronic States in Nickel Hydroxide and Monolayer Surface Model"](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b07564) J. Phys. Chem. C., 2017, 121(44), pp 24603-24611
 
+- Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, Kayo Koike, Katsushi Fujii, Tomiko Suzuki, Takeshi Morikawa, Shinichiro Nakamura "First Principles Calculation of Surface Dependent Electronic Structures: A Study on β-FeOOH and γ-FeOOH", Phys. Chem. Chem. Phys., Under Reviewing
+
 ## Poster 
 
 - Yuki Sakamoto et al. "First Principles Calculation of Pristine Ni(OH)<sub>2</sub> and Related Materials", 2017 International Conference on Artificial Photosynthesis, Ritsumeikan-University, Kyoto. (2017/3/2-5)
