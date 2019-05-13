@@ -15,7 +15,7 @@ It is also welcome to contact me via the social account described in below.
 
 - [Linkedin](https://www.linkedin.com/in/yuki-sakamoto)
 - [Github](https://github.com/YukiSakamoto) 
-- [Qiita](https://qiita.com/YukiSakamoto@github) :   Technocal tips
+- [Qiita](https://qiita.com/swakamoto) :   Technocal tips
 - [Blog (only Japanese)](http://yukisakamoto.hatenablog.com) : 
 
 I am using this icon in most social medias.
