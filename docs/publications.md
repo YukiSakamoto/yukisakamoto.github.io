@@ -7,7 +7,7 @@
 
 - Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, and Shinichiro Nakamura, ["Chemical Insights from Theoretical Electronic States in Nickel Hydroxide and Monolayer Surface Model"](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b07564) J. Phys. Chem. C., 2017, 121(44), pp 24603-24611
 
-- Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, Kayo Koike, Katsushi Fujii, Tomiko Suzuki, Takeshi Morikawa, Shinichiro Nakamura "First Principles Calculation of Surface Dependent Electronic Structures: A Study on β-FeOOH and γ-FeOOH", Phys. Chem. Chem. Phys., Accepted
+- Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, Kayo Koike, Katsushi Fujii, Tomiko Suzuki, Takeshi Morikawa, Shinichiro Nakamura ["First Principles Calculation of Surface Dependent Electronic Structures: A Study on β-FeOOH and γ-FeOOH"](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp00157c), Phys. Chem. Chem. Phys., Accepted
 
 ## Poster 
 
