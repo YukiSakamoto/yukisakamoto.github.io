@@ -9,6 +9,8 @@
 
 - Yuki Sakamoto, Yusuke Noda, Kaoru Ohno, Kayo Koike, Katsushi Fujii, Tomiko Suzuki, Takeshi Morikawa, Shinichiro Nakamura ["First Principles Calculation of Surface Dependent Electronic Structures: A Study on β-FeOOH and γ-FeOOH"](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp00157c), Phys. Chem. Chem. Phys., *In Press*
 
+- Koji Ogata, Makoto Hatakeyama, Yuki Sakamoto, Shinichiro Nakamura [“Investigation of Pathway for Water Delivery in Photosystem II Protein by Molecular Dynamics Simulation”](https://pubs.acs.org/doi/10.1021/acs.jpcb.9b04838), J. Phys. Chem. B., *In Press*
+
 ## Poster 
 
 - Yuki Sakamoto et al. "First Principles Calculation of Pristine Ni(OH)<sub>2</sub> and Related Materials", 2017 International Conference on Artificial Photosynthesis, Ritsumeikan-University, Kyoto. (2017/3/2-5)
