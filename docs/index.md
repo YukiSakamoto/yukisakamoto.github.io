@@ -4,7 +4,7 @@
 
 Current status: 
 
-- Engineer at Mitsubishi Chemical Corporation
+- Woking at RIKEN
 
 - Ph.D. in Science
 

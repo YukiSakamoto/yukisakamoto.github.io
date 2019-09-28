@@ -4,7 +4,7 @@
 
 ## Affiliation
 
-Mitsubishi Chemical Corporation
+Nakamura Laboratory RIKEN, Saitama, Japan
 
 ## Education
 
