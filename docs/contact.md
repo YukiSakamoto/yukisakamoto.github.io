@@ -3,7 +3,7 @@
 
 My email address is as follows.
 
--	sakamotoyuki.jpn _at_ gmail.com
+-	sakamotoyuki.jpn+ghp  _at_ gmail.com
 
 	(please substitute _at_ with @)
 

@@ -33,10 +33,13 @@ Nakamura Laboratory RIKEN, Saitama, Japan
 
 	- Contributing the [e-cell project](http://www.e-cell.org/).
 
-- 2017.4-2018.3:     Junior Research Associate at RIKEN
+- 2017.4-2018.3:     RIKEN
 
     - Junior researcher at [Nakamura special laboratory](http://www.riken.jp/photoandsonic/index.html) in [RIKEN](http://www.riken.jp)
 
+- 2018.4-2019.8:	Mitsubishi Chemical Corporation
+
+	- Research Engineer at Kagawa plant
 
 ## Skills
 
