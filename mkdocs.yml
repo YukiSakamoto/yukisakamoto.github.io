@@ -4,8 +4,5 @@ google_analytics: ['UA-108145348-1', 'yukisakamoto.github.io']
 theme: flatly
 pages:
 - Home: index.md
-- About: profile.md
-- Publications: publications.md
-- Contact: contact.md
 - Misc:
   - Tiny Hartree-Fock program: hf.md
