@@ -1,8 +1,18 @@
 site_name: YukiSakamoto.github.io
 remote_branch: master
 google_analytics: ['UA-108145348-1', 'yukisakamoto.github.io']
-theme: flatly
+theme: 
+    name: 'material'
+    palette: 
+        primary: 'light blue'
+extra:
+    social:
+        - type: 'github'
+          link: 'https://github.com/yukisakamoto'
+        - type: 'linkedin'
+          link: 'https://www.linkedin.com/in/yuki-sakamoto'
 pages:
 - Home: index.md
 - Misc:
   - Tiny Hartree-Fock program: hf.md
+  - Jurnal cover: covers.md
