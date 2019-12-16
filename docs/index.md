@@ -1,8 +1,8 @@
-# yukisakamoto.github.io
+# YukiSakamoto.github.io
 
 坂本裕紀のホームページ
 
-![scream](Profile_small.jpg)
+![scream](img/Profile_small.jpg)
 
 ## Current status: 
 
@@ -20,6 +20,7 @@
 
 ## Accounts
 
-- [Linkedin](https://www.linkedin.com/in/yuki-sakamoto)
+- [linkedin](https://www.linkedin.com/in/yuki-sakamoto)
 - [Github](https://github.com/YukiSakamoto) 
 - [Qiita](https://qiita.com/swakamoto) :   Technocal tips
+- [Hatena-blog](https://www.swakamoto.com)
