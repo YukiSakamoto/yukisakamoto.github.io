@@ -3,6 +3,7 @@ remote_branch: master
 google_analytics: ['UA-108145348-1', 'yukisakamoto.github.io']
 theme: 
     name: 'material'
+    custom_dir: custom_theme/
     palette: 
         primary: 'light blue'
 extra:
@@ -15,4 +16,4 @@ pages:
 - Home: index.md
 - Misc:
   - Tiny Hartree-Fock program: hf.md
-  - Jurnal cover: covers.md
+  - Journal cover: covers.md
