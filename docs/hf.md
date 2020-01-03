@@ -1,5 +1,7 @@
 
-# Tiny Hartree-Fock Program (Japanese only)
+# Tiny Hartree-Fock Program
+
+分子軌道計算に用いるHartree Fock法のプログラムを、C++で実装してみたものです。
 
 ### Repository:
 
