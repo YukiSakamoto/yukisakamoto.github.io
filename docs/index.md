@@ -23,4 +23,3 @@
 - [linkedin](https://www.linkedin.com/in/yuki-sakamoto)
 - [Github](https://github.com/YukiSakamoto) 
 - [Qiita](https://qiita.com/swakamoto) :   Technocal tips
-- [Hatena-blog](https://www.swakamoto.com)
