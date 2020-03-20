@@ -1,6 +1,4 @@
-# YukiSakamoto.github.io
-
-坂本裕紀のホームページ
+# 坂本裕紀のホームページ
 
 ![scream](img/Profile_small.jpg)
 
