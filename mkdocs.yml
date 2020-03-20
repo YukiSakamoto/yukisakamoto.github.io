@@ -5,7 +5,6 @@ markdown_extensions:
     - attr_list
 theme: 
     name: 'material'
-    custom_dir: custom_theme/
     palette: 
         primary: 'light blue'
 extra:
@@ -16,7 +15,8 @@ extra:
           link: 'https://www.linkedin.com/in/yuki-sakamoto'
 pages:
 - Home: index.md
-- Research: research.md
+- 学会発表: conference.md
+- 研究内容: research.md
 - Misc:
   - Tiny Hartree-Fock program: hf.md
   - Journal cover: covers.md

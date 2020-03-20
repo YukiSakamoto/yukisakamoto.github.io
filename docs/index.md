@@ -4,22 +4,24 @@
 
 ![scream](img/Profile_small.jpg)
 
-## Current status: 
+## 現在の所属: 
 
-- Woking at RIKEN
+理化学研究所 バトンゾーン研究推進プログラム 中村特別研究室　
 
-- Ph.D. in Science
+## 出版論文など
 
-## Publication
+[Google scholar](https://scholar.google.co.jp/citations?user=RYGclTkAAAAJ&hl=ja&authuser=1)
 
-- [Google scholar](https://scholar.google.co.jp/citations?user=RYGclTkAAAAJ&hl=ja&authuser=1)
+## 連絡先
 
-## Email
+埼玉県和光市広沢2-1　研究本館113号室
 
--	sakamotoyuki.jpn+ghp  _at_ gmail.com
+sakamotoyuki.jpn+ghp _at_ gmail.com
 
-## Accounts
+## アカウントなど
 
 - [linkedin](https://www.linkedin.com/in/yuki-sakamoto)
+- [ResearchGate](https://www.researchgate.net/profile/Yuki_Sakamoto9)
 - [Github](https://github.com/YukiSakamoto) 
 - [Qiita](https://qiita.com/swakamoto) :   Technocal tips
+
