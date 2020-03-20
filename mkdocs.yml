@@ -15,6 +15,7 @@ extra:
           link: 'https://www.linkedin.com/in/yuki-sakamoto'
 pages:
 - Home: index.md
+- Home(English): index_en.md
 - 研究実績: conference.md
 - 研究内容: research.md
 - Misc:
