@@ -12,9 +12,9 @@ Postdoctoral Researcher at Nakamura Laboratory, RIKEN, Japan
 
 ## Contact
 
-- 2-1, Hirosawa, Wako-city, Saitama, 351-0198, JAPAN
+- Address: Main Research Bldg #113, 2-1, Hirosawa, Wako-city, Saitama, 351-0198, JAPAN
 
-- sakamotoyuki.jpn+ghp  _at_ gmail.com
+- E-Mail: sakamotoyuki.jpn+ghp _at_ gmail.com
 
 ## Accounts
 
