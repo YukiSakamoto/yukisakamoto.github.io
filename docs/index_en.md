@@ -18,7 +18,8 @@ Postdoctoral Researcher at Nakamura Laboratory, RIKEN, Japan
 
 ## Accounts
 
-- [linkedin](https://www.linkedin.com/in/yuki-sakamoto)
+- [ResearchMap](https://researchmap.jp/yukisakamoto?lang=en)
+- [linkedin](https://www.linkedin.com/in/yuki-sakamoto/?locale=en_US)
 - [ResearchGate](https://www.researchgate.net/profile/Yuki_Sakamoto9)
 - [Github](https://github.com/YukiSakamoto) 
 - [Qiita](https://qiita.com/swakamoto) :   Technocal tips

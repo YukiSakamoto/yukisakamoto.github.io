@@ -18,6 +18,7 @@ sakamotoyuki.jpn+ghp _at_ gmail.com
 
 ## 各種アカウント
 
+- [ResearchMap](https://researchmap.jp/yukisakamoto)
 - [linkedin](https://www.linkedin.com/in/yuki-sakamoto)
 - [ResearchGate](https://www.researchgate.net/profile/Yuki_Sakamoto9)
 - [Github](https://github.com/YukiSakamoto) 
