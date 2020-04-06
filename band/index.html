@@ -36,7 +36,7 @@
     
     
       
-        <title>Home(English) - YukiSakamoto.github.io</title>
+        <title>固体化学のノート：バンドと分子軌道 - YukiSakamoto.github.io</title>
       
     
     
@@ -108,7 +108,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#yuki-sakamoto-phd" tabindex="0" class="md-skip">
+      <a href="#_1" tabindex="0" class="md-skip">
         Skip to content
       </a>
     
@@ -134,7 +134,7 @@
             </span>
             <span class="md-header-nav__topic">
               
-                Home(English)
+                固体化学のノート：バンドと分子軌道
               
             </span>
           
@@ -213,70 +213,11 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Home(English)
-      </label>
-    
-    <a href="./" title="Home(English)" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../index_en/" title="Home(English)" class="md-nav__link">
       Home(English)
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#current-status" class="md-nav__link">
-    Current Status :
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#publication" class="md-nav__link">
-    Publication
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#contact" class="md-nav__link">
-    Contact
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#accounts" class="md-nav__link">
-    Accounts
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
     
@@ -373,29 +314,50 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#current-status" class="md-nav__link">
-    Current Status :
+  <a href="#_2" class="md-nav__link">
+    始めに
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#publication" class="md-nav__link">
-    Publication
+  <a href="#1" class="md-nav__link">
+    1次元の水素鎖モデルとブロッホ関数の導入
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#contact" class="md-nav__link">
-    Contact
+  <a href="#k" class="md-nav__link">
+    kに依存した波動関数の形
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#accounts" class="md-nav__link">
-    Accounts
+  <a href="#k_1" class="md-nav__link">
+    kの値に対するエネルギーの変化：　バンドの導入
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#23" class="md-nav__link">
+    2次元・3次元への拡張
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#s" class="md-nav__link">
+    s軌道以外の軌道
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    参考文献
   </a>
   
 </li>
@@ -417,29 +379,89 @@
               
                 
                 
-                <h1 id="yuki-sakamoto-phd">Yuki Sakamoto, Ph.D</h1>
-<p><img alt="scream" src="../img/Profile_small.jpg" /></p>
-<h2 id="current-status">Current Status :</h2>
-<p>Postdoctoral Researcher at Nakamura Laboratory, RIKEN, Japan</p>
-<h2 id="publication">Publication</h2>
-<p><a href="https://scholar.google.co.jp/citations?user=RYGclTkAAAAJ&amp;hl=ja&amp;authuser=1">Google scholar</a></p>
-<h2 id="contact">Contact</h2>
+                <h1 id="_1">固体化学のノート：バンドと分子軌道</h1>
+<p>$$
+\def\bra#1{\mathinner{\left\langle{#1}\right|}}
+\def\ket#1{\mathinner{\left|{#1}\right\rangle}}
+\def\braket#1#2{\mathinner{\left\langle{#1}\middle|#2\right\rangle}}
+$$</p>
+<h2 id="_2">始めに</h2>
+<p>固体化学・固体物理を勉強すると、バンドという概念が出てきます。
+化学分野でLCAO法に基づく分子軌道法のみを勉強していると、結晶に特有のこの概念がなかなかしっくりこなかった覚えがあります。そこで、このノートではLCAO法とバンドとの対応を考えてみます。</p>
+<p>なお、ここでの議論は、参考文献1, 2と殆ど同様のものであることを述べておきます。
+私自身、これらの本で初めにバンドの概念を勉強し、段階的に固体物理の教科書に入っていきました。</p>
+<h2 id="1">1次元の水素鎖モデルとブロッホ関数の導入</h2>
+<p>まず、次の図のように、等間隔 $a$ で１次元に水素原子が並んだモデルを考えます 。（当然ながらそんな系は実在せず、水素原子はペアになってH<sub>2</sub>となります。）</p>
+<p><img alt="H-1d" src="../band_figure/H-1d.png" /></p>
+<p>この系の波動関数は、ブロッホの定理により下記の形式で表されます。この導出に関してはここでは省略します。
+$$
+\psi_k(x) = \exp(ikx)u_k(x)
+$$</p>
+<p>ここで、 $u_k(x)$ は格子間隔$a$の周期関数であり、$u_k(x) = u_k(x+a)$を満たします。また、$k$は、$ 0 \le k \le \frac{\pi}{a}$の範囲をとります（これも、ここでは天下り的に受け入れてください）。</p>
+<p>$u_k$として、各原子核を中心とする1s軌道($\sum_n \chi_n(x-an)$)を考えると、波動関数は下記のように表すことができます。
+$$
+\psi_k(x) = \exp(ikx) \sum_n {\chi_n(x - an)}
+$$</p>
+<h2 id="k">kに依存した波動関数の形</h2>
+<p>ここで、上記の波動関数$\psi_k$に関して、$k$の値毎に、波動関数の形を考えてみます。</p>
+<p>まず、$k = 0 $の場合、波動関数は、
+$$<br />
+\psi_0(x) = \exp(i0x)\sum_n{\chi_n(x-an)} = \sum_n{\chi_n(x-an)}
+$$
+となり、それぞれの$\chi_i$が等価に線形結合したものとなります。</p>
+<p>次に、$k = \frac{\pi}{a}$の場合の波動関数は、
+$$
+\psi(x) = \exp(i \frac{\pi}{a} x)\sum_n{\chi_n(x-an)}
+$$
+ここで、各原子軌道の中心、即ち、$ x = am $となる座標を考えると、
+$$
+\psi(am) = \cos(m \pi)\sum_n{\chi_n(x - an)} = (-1)^m \sum_n{\chi_n(x - an)}
+$$
+となり、x座標が$a$進むごとに、符号が逆転することがわかります。</p>
+<p>$\exp(ikx)$に$k=\frac{\pi}{a}, \frac{\pi}{2a}$を代入して波動関数を展開し、それらの実部をプロットしたものが下記の図です。青の実線で示しているのが、$\exp(ikx)$の部分、ピンクの点線が波動関数全体$\psi_k$です。</p>
+<p><img alt="Chain_1s" src="../band_figure/wf_plot.png" /></p>
+<p>ここまでは、$k=0, \frac{\pi}{a}, \frac{\pi}{2a}$の場合のみを考えましたが、このモデルでは水素原子が１次元に無限に並んでいるため、節が０で全ての原子軌道が同位相で結合する状態($k=0$)から、隣合う原子軌道が逆位相で結合する状態($k=\frac{\pi}{a}$)までkの値を段階的に変えて行くことができます。</p>
+<h2 id="k_1">kの値に対するエネルギーの変化：　バンドの導入</h2>
+<p>ここまででみた$\psi_k(x)$の固有エネルギーは、下記のように表されます。</p>
+<!--
+$$
+E_k = \frac{\int{ \psi_k^{\ast}(x) H \psi_k(x) }dx}{\int{\psi_k^{\ast}(x) \psi_k(x)}dx } \\
+\int{ \psi_k^{\ast}(x) H \psi_k(x) }dx = \sum_n{ \sum_m{ \exp(ik(n-m)a) \int { \chi_n^{\ast}(x-an)H\chi_m(x-am) } dx }  } \\ 
+\int{ \psi_k^{\ast}(x)\psi_k(x) }dx = \sum_n{ \sum_m{ \exp(ik(n-m)a) \int { \chi_n^{\ast}(x-an)\chi_m(x-am) } dx }  } 
+$$
+-->
+
+<p>$$
+E_k = \frac {\bra{\psi_k} H \ket{\psi_k} }{\braket{\psi_k}{\psi_k}}
+$$</p>
+<p>化学結合の言葉を借りると、前節での$k=0$の場合は、結合性軌道でエネルギーが最も低くて安定な状態であるのに対し、$k=\frac{\pi}{a}$のでは反結合性軌道となり最もエネルギーの高い不安定な状態になります。
+この様に、kの値を連続的に変えて行った際に、対応する軌道のエネルギーをプロットしたものが下図の様なものであり、これが「バンド図」もしくは「E-k分散図」と呼ばれるものです。</p>
+<p><img alt="1d_band_plot" src="../band_figure/band.png" /></p>
+<p>複数の原子軌道が相互作用する場合、軌道のエネルギーは軌道同士の重なりの大きさで分裂の程度が変わってきます。上の図では、水素原子間の距離を1Å(左), 2Å(中), 3Å(右)と変えて計算したものをプロットしており、間隔が広くなって軌道同士の相互作用が少なくなるとバンドの傾きが小さくなってくることがわかります。</p>
+<h2 id="23">2次元・3次元への拡張</h2>
+<p>ここまでは１次元で考えてみましたが、これを２次元に拡張します。と言っても、x軸・y軸は直交していますので、実際にはx,yそれぞれの軸に対応したkの値である$k_x, k_y$を変数分離して考えれば良いです。</p>
+<p>前の節と同様に、$ 0 \le k_x,k_y \le \frac{\pi}{a} $でkの値を動かした時の1s軌道の様子を下図に示します。○の色が白いところは1s軌道が＋の符号、灰色のところは-の符号、何もない格子点は節になっているところと考えてください。</p>
+<p><img alt="H-2d_orbitals" src="../band_figure/H_2d_orbitals.png" /></p>
+<p>この図をみて分かるように、$ (k_x,k_y) = (\frac{\pi}a, 0) $と$ (k_x, k_y)=(0, \frac{\pi}a)$の場合では、対称性から同一の状態となります。
+結晶の持つ対称性に対して定まるk点のうち、対称性の高いk点には名前がついており、それが上図で示した$\Gamma, X, M$といったものです。
+二次元以上の場合は、通常は対称性の良いk点同士を結ぶ線上で、エネルギーをプロットしバンドを表示します。下図は、上記の二次元系のバンドをプロットしたものです。</p>
+<p><img alt="H_2d_band" src="../band_figure/h_2d_band.png" /></p>
+<p>実際の結晶の構造は３次元で決まりますが、以上と同様の考えで、結晶の持つ対称性に対してBroullianゾーンが決まり、その中で対称性の良いk点に関してバンドをプロットします。</p>
+<h2 id="s">s軌道以外の軌道</h2>
+<p>軌道の対称性はバンドの傾きを考える上で重要です。</p>
+<p>s軌道、d軌道は、原子核に対して波動関数の符号が変わらない(g対称)のに対して、p軌道は原子核に関して符号が逆転(u対称)します。$k$の値に対して、波動関数のエネルギーは以下の様に変化します。</p>
 <ul>
-<li>
-<p>Address: Main Research Bldg #113, 2-1, Hirosawa, Wako-city, Saitama, 351-0198, JAPAN</p>
-</li>
-<li>
-<p>E-Mail: sakamotoyuki.jpn+ghp <em>at</em> gmail.com</p>
-</li>
+<li>g対称の軌道は、kの値が増加するにつれて、エネルギーが上がる（不安定になる）</li>
+<li>u対称の軌道は、kの値が装荷するにつれて、エネルギーが下がる（安定になる）</li>
 </ul>
-<h2 id="accounts">Accounts</h2>
-<ul>
-<li><a href="https://researchmap.jp/yukisakamoto?lang=en">ResearchMap</a></li>
-<li><a href="https://www.linkedin.com/in/yuki-sakamoto/?locale=en_US">linkedin</a></li>
-<li><a href="https://www.researchgate.net/profile/Yuki_Sakamoto9">ResearchGate</a></li>
-<li><a href="https://github.com/YukiSakamoto">Github</a> </li>
-<li><a href="https://qiita.com/swakamoto">Qiita</a> :   Technocal tips</li>
-</ul>
+<p>p軌道のπ結合では、kの値の増加につれてエネルギーは上がっていきます（g対称のσ結合と同じ）が、一般にσ結合よりもπ軌道は重なりが小さくなります。従って、バンドの傾きは緩やかになります。</p>
+<h2 id="_3">参考文献</h2>
+<ol>
+<li>固体と表面の理論化学</li>
+<li>固体の電子構造と化学</li>
+<li>Orbital Interaction</li>
+<li></li>
+</ol>
                 
                   
                 
@@ -457,41 +479,6 @@
       
         
 <footer class="md-footer">
-  
-    <div class="md-footer-nav">
-      <nav class="md-footer-nav__inner md-grid">
-        
-          <a href=".." title="Home" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
-            <div class="md-flex__cell md-flex__cell--shrink">
-              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
-            </div>
-            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-              <span class="md-flex__ellipsis">
-                <span class="md-footer-nav__direction">
-                  Previous
-                </span>
-                Home
-              </span>
-            </div>
-          </a>
-        
-        
-          <a href="../conference/" title="研究実績" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-              <span class="md-flex__ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
-                研究実績
-              </span>
-            </div>
-            <div class="md-flex__cell md-flex__cell--shrink">
-              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
-            </div>
-          </a>
-        
-      </nav>
-    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
